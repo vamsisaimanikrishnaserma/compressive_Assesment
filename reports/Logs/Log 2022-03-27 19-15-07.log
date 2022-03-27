@@ -1,0 +1,173 @@
+2022-03-27 19:15:25 INFO  TC001_Login:19 - Driver set as Chrome
+2022-03-27 19:15:25 INFO  TC001_Login:19 - Driver Maximizes
+2022-03-27 19:15:26 INFO  TC001_Login:19 - Login test Started
+2022-03-27 19:15:56 INFO  HomePage:19 - Opening the url : https://www.nobroker.in/
+2022-03-27 19:15:57 INFO  HomePage:19 - Clicking on Login option
+2022-03-27 19:15:57 INFO  HomePage:19 - Entering phone no : 9390919247
+2022-03-27 19:15:57 INFO  HomePage:19 - Clicking continue
+2022-03-27 19:15:58 INFO  HomePage:19 - Selecting Login with password
+2022-03-27 19:16:03 INFO  HomePage:19 - Entering password : nand3799
+2022-03-27 19:16:03 INFO  HomePage:19 - Clicking on login
+2022-03-27 19:16:11 ERROR HomePage:16 - Expected condition failed: waiting for visibility of element located by By.xpath: //div[.='Sign Out'] (tried for 3 second(s) with 500 milliseconds interval)
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'LAPTOP-QS1170C2', ip: '192.168.137.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.84, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\Users\91984\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:65405}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:65405/devtoo..., se:cdpVersion: 99.0.4844.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: aa7d9496e544366a9793a2eddb6aeb14
+2022-03-27 19:16:11 INFO  HomePage:19 - Login FAILED
+2022-03-27 19:16:20 INFO  TC001_Login:19 - Driver set as Chrome
+2022-03-27 19:16:20 INFO  TC001_Login:19 - Driver Maximizes
+2022-03-27 19:16:20 INFO  TC001_Login:19 - Login test Started
+2022-03-27 19:16:52 INFO  HomePage:19 - Opening the url : https://www.nobroker.in/
+2022-03-27 19:16:52 INFO  HomePage:19 - Clicking on Login option
+2022-03-27 19:16:52 INFO  HomePage:19 - Entering phone no : 9390919247
+2022-03-27 19:16:53 INFO  HomePage:19 - Clicking continue
+2022-03-27 19:16:53 INFO  HomePage:19 - Selecting Login with password
+2022-03-27 19:16:54 INFO  HomePage:19 - Entering password : nand3799
+2022-03-27 19:16:55 INFO  HomePage:19 - Clicking on login
+2022-03-27 19:17:00 ERROR HomePage:16 - Expected condition failed: waiting for visibility of element located by By.xpath: //div[.='Sign Out'] (tried for 3 second(s) with 500 milliseconds interval)
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'LAPTOP-QS1170C2', ip: '192.168.137.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.84, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\Users\91984\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:65475}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:65475/devtoo..., se:cdpVersion: 99.0.4844.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: dc617bb164ce714501b73fc90c66e75c
+2022-03-27 19:17:04 INFO  HomePage:19 - Login FAILED
+2022-03-27 19:17:07 INFO  TC001_Login:19 - Driver set as Chrome
+2022-03-27 19:17:08 INFO  TC001_Login:19 - Driver Maximizes
+2022-03-27 19:17:08 INFO  TC001_Login:19 - Login test Started
+2022-03-27 19:17:39 INFO  HomePage:19 - Opening the url : https://www.nobroker.in/
+2022-03-27 19:17:39 INFO  HomePage:19 - Clicking on Login option
+2022-03-27 19:17:40 INFO  HomePage:19 - Entering phone no : 9390919247
+2022-03-27 19:17:40 INFO  HomePage:19 - Clicking continue
+2022-03-27 19:17:40 INFO  HomePage:19 - Selecting Login with password
+2022-03-27 19:17:43 INFO  HomePage:19 - Entering password : nand3799
+2022-03-27 19:17:43 INFO  HomePage:19 - Clicking on login
+2022-03-27 19:17:47 ERROR HomePage:16 - Expected condition failed: waiting for visibility of element located by By.xpath: //div[.='Sign Out'] (tried for 3 second(s) with 500 milliseconds interval)
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'LAPTOP-QS1170C2', ip: '192.168.137.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.84, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\Users\91984\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49163}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49163/devtoo..., se:cdpVersion: 99.0.4844.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 505099c9f7b2fbedc214d80a1b69e82a
+2022-03-27 19:17:50 INFO  HomePage:19 - Login FAILED
+2022-03-27 19:17:54 INFO  TC002_Login_with_Invalid_data:19 - Driver set as Chrome
+2022-03-27 19:17:55 INFO  TC002_Login_with_Invalid_data:19 - Driver Maximizes
+2022-03-27 19:17:55 INFO  TC002_Login_with_Invalid_data:19 - Login test Started
+2022-03-27 19:18:27 INFO  HomePage:19 - Opening the url : https://www.nobroker.in/
+2022-03-27 19:18:27 INFO  HomePage:19 - Clicking on Login option
+2022-03-27 19:18:27 INFO  HomePage:19 - Entering phone no : 9390919247
+2022-03-27 19:18:27 INFO  HomePage:19 - Clicking continue
+2022-03-27 19:18:28 INFO  HomePage:19 - Selecting Login with password
+2022-03-27 19:18:29 INFO  HomePage:19 - Entering password : 124541
+2022-03-27 19:18:30 INFO  HomePage:19 - Clicking on login
+2022-03-27 19:18:33 ERROR HomePage:16 - Expected condition failed: waiting for visibility of element located by By.xpath: //span[@class='nb__3-MNF'] (tried for 3 second(s) with 500 milliseconds interval)
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'LAPTOP-QS1170C2', ip: '192.168.137.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.84, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\Users\91984\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49233}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49233/devtoo..., se:cdpVersion: 99.0.4844.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 782cb4810bdd34cd5d0bf5740bebc861
+2022-03-27 19:18:33 INFO  HomePage:19 - Login Success
+2022-03-27 19:18:38 INFO  TC002_Login_with_Invalid_data:19 - Driver set as Chrome
+2022-03-27 19:18:38 INFO  TC002_Login_with_Invalid_data:19 - Driver Maximizes
+2022-03-27 19:18:38 INFO  TC002_Login_with_Invalid_data:19 - Login test Started
+2022-03-27 19:19:10 INFO  HomePage:19 - Opening the url : https://www.nobroker.in/
+2022-03-27 19:19:10 INFO  HomePage:19 - Clicking on Login option
+2022-03-27 19:19:11 INFO  HomePage:19 - Entering phone no : 9390919247
+2022-03-27 19:19:11 INFO  HomePage:19 - Clicking continue
+2022-03-27 19:19:13 INFO  HomePage:19 - Selecting Login with password
+2022-03-27 19:19:13 INFO  HomePage:19 - Entering password : nadfa
+2022-03-27 19:19:14 INFO  HomePage:19 - Clicking on login
+2022-03-27 19:19:17 ERROR HomePage:16 - Expected condition failed: waiting for visibility of element located by By.xpath: //span[@class='nb__3-MNF'] (tried for 3 second(s) with 500 milliseconds interval)
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'LAPTOP-QS1170C2', ip: '192.168.137.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.84, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\Users\91984\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49299}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49299/devtoo..., se:cdpVersion: 99.0.4844.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d99f2f8d5276462eaea3105167d0de77
+2022-03-27 19:19:17 INFO  HomePage:19 - Login Success
+2022-03-27 19:19:21 INFO  TC002_Login_with_Invalid_data:19 - Driver set as Chrome
+2022-03-27 19:19:21 INFO  TC002_Login_with_Invalid_data:19 - Driver Maximizes
+2022-03-27 19:19:21 INFO  TC002_Login_with_Invalid_data:19 - Login test Started
+2022-03-27 19:19:53 INFO  HomePage:19 - Opening the url : https://www.nobroker.in/
+2022-03-27 19:19:53 INFO  HomePage:19 - Clicking on Login option
+2022-03-27 19:19:54 INFO  HomePage:19 - Entering phone no : 9160167494
+2022-03-27 19:19:54 INFO  HomePage:19 - Clicking continue
+2022-03-27 19:19:54 INFO  HomePage:19 - Selecting Login with password
+2022-03-27 19:19:57 ERROR HomePage:16 - Expected condition failed: waiting for element to be clickable: By.id: login-signup-form-login-radio-password (tried for 3 second(s) with 500 milliseconds interval)
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'LAPTOP-QS1170C2', ip: '192.168.137.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.84, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\Users\91984\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49366}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:49366/devtoo..., se:cdpVersion: 99.0.4844.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: bdd09aa683ac1250a544e9f0fb12f28b
+2022-03-27 19:19:58 INFO  HomePage:19 - Login Success
+2022-03-27 19:20:02 INFO  TC003_VerfiyFanPagesWorking:19 - Driver set as Chrome
+2022-03-27 19:20:03 INFO  TC003_VerfiyFanPagesWorking:19 - Driver Maximizes
+2022-03-27 19:20:03 INFO  TC003_VerfiyFanPagesWorking:19 - Verifying fan pages
+2022-03-27 19:20:34 INFO  HomePage:19 - Opeining facebook
+2022-03-27 19:21:07 INFO  HomePage:19 - Opened Facebook
+2022-03-27 19:21:20 INFO  HomePage:19 - Opeining twitter
+2022-03-27 19:21:24 INFO  HomePage:19 - Unable to open Twitter
+2022-03-27 19:21:26 INFO  HomePage:19 - Opeining Linkdin
+2022-03-27 19:21:41 INFO  HomePage:19 - Unable to open Linkdin
+2022-03-27 19:21:43 INFO  HomePage:19 - Opeining youtube
+2022-03-27 19:21:56 INFO  HomePage:19 - Opened YouTube
+2022-03-27 19:22:04 INFO  HomePage:19 - Opeining Insta
+2022-03-27 19:22:29 INFO  HomePage:19 - Opened Insta
+2022-03-27 19:22:37 INFO  TC004_SearchCommertialProperties:19 - Driver set as Chrome
+2022-03-27 19:22:37 INFO  TC004_SearchCommertialProperties:19 - Driver Maximizes
+2022-03-27 19:22:37 INFO  TC004_SearchCommertialProperties:19 - Starting commertial search test
+2022-03-27 19:23:12 INFO  TC004_SearchCommertialProperties:19 - Opening the url: https://www.nobroker.in/
+2022-03-27 19:23:12 INFO  TC004_SearchCommertialProperties:19 - selcting city as chennai
+2022-03-27 19:23:12 INFO  TC004_SearchCommertialProperties:19 - Entering loacation as Taj Lands End, Mumbai, Byramji Jeejeebhoy Road, Mount Mary, Bandra West, Mumbai, Maharashtra, India
+2022-03-27 19:23:16 INFO  TC004_SearchCommertialProperties:19 -  Number of Results found for Taj Lands End, Mumbai, Byramji Jeejeebhoy Road, Mount Mary, Bandra West, Mumbai, Maharashtra, India :7
+2022-03-27 19:23:54 INFO  TC004_SearchCommertialProperties:19 - Search for Rent properties Success
+2022-03-27 19:23:58 INFO  TC004_SearchCommertialProperties:19 - Driver set as Chrome
+2022-03-27 19:23:58 INFO  TC004_SearchCommertialProperties:19 - Driver Maximizes
+2022-03-27 19:23:58 INFO  TC004_SearchCommertialProperties:19 - Starting commertial search test
+2022-03-27 19:24:30 INFO  TC004_SearchCommertialProperties:19 - Opening the url: https://www.nobroker.in/
+2022-03-27 19:24:30 INFO  TC004_SearchCommertialProperties:19 - selcting city as chennai
+2022-03-27 19:24:30 INFO  TC004_SearchCommertialProperties:19 - Entering loacation as Mahavir Nagar Kandivali West, Shravan Nagar, Kandivali West, Mumbai, Maharashtra
+2022-03-27 19:24:33 INFO  TC004_SearchCommertialProperties:19 -  Number of Results found for Mahavir Nagar Kandivali West, Shravan Nagar, Kandivali West, Mumbai, Maharashtra :129
+2022-03-27 19:25:12 INFO  TC004_SearchCommertialProperties:19 - Search for Rent properties Success
+2022-03-27 19:25:19 INFO  TC004_SearchCommertialProperties:19 - Driver set as Chrome
+2022-03-27 19:25:19 INFO  TC004_SearchCommertialProperties:19 - Driver Maximizes
+2022-03-27 19:25:19 INFO  TC004_SearchCommertialProperties:19 - Starting commertial search test
+2022-03-27 19:25:50 INFO  TC004_SearchCommertialProperties:19 - Opening the url: https://www.nobroker.in/
+2022-03-27 19:25:50 ERROR TC004_SearchCommertialProperties:16 - Unable to find element with locator By.xpath: //div[.='Commercial']
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'LAPTOP-QS1170C2', ip: '192.168.137.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: driver.version: RemoteWebDriver
+2022-03-27 19:25:57 INFO  TC005_FooterPGHostelSearch:19 - Driver set as Chrome
+2022-03-27 19:25:57 INFO  TC005_FooterPGHostelSearch:19 - Driver Maximizes
+2022-03-27 19:25:57 INFO  TC005_FooterPGHostelSearch:19 - Pg hostel city search 
+2022-03-27 19:25:57 INFO  TC005_FooterPGHostelSearch:19 - Opening the url: https://www.nobroker.in/
+2022-03-27 19:26:29 INFO  TC005_FooterPGHostelSearch:19 - checking presence of city: Powai
+2022-03-27 19:26:32 INFO  TC005_FooterPGHostelSearch:19 - New Bilder Properties 
+2022-03-27 19:26:39 INFO  TC005_FooterPGHostelSearch:19 - Driver set as Chrome
+2022-03-27 19:26:39 INFO  TC005_FooterPGHostelSearch:19 - Driver Maximizes
+2022-03-27 19:26:39 INFO  TC005_FooterPGHostelSearch:19 - Pg hostel city search 
+2022-03-27 19:26:39 INFO  TC005_FooterPGHostelSearch:19 - Opening the url: https://www.nobroker.in/
+2022-03-27 19:27:23 INFO  TC005_FooterPGHostelSearch:19 - checking presence of city: Thane West
+2022-03-27 19:27:40 INFO  TC005_FooterPGHostelSearch:19 - New Bilder Properties 
+2022-03-27 19:27:47 INFO  TC005_FooterPGHostelSearch:19 - Driver set as Chrome
+2022-03-27 19:27:47 INFO  TC005_FooterPGHostelSearch:19 - Driver Maximizes
+2022-03-27 19:27:47 INFO  TC005_FooterPGHostelSearch:19 - Pg hostel city search 
+2022-03-27 19:27:47 INFO  TC005_FooterPGHostelSearch:19 - Opening the url: https://www.nobroker.in/
+2022-03-27 19:28:23 INFO  TC005_FooterPGHostelSearch:19 - checking presence of city: Bavdhan
+2022-03-27 19:28:25 INFO  TC005_FooterPGHostelSearch:19 - New Bilder Properties 
+2022-03-27 19:28:29 INFO  TC006_LoginAndVerifyDetails:19 - Driver set as Chrome
+2022-03-27 19:28:29 INFO  TC006_LoginAndVerifyDetails:19 - Driver Maximizes
+2022-03-27 19:28:29 INFO  TC006_LoginAndVerifyDetails:19 - Entering in to login Test
+2022-03-27 19:29:01 INFO  HomePage:19 - Opening the url : https://www.nobroker.in/
+2022-03-27 19:29:01 INFO  HomePage:19 - Clicking on Login option
+2022-03-27 19:29:02 INFO  HomePage:19 - Entering phone no : 9390919247
+2022-03-27 19:29:04 INFO  HomePage:19 - Clicking continue
+2022-03-27 19:29:04 INFO  HomePage:19 - Selecting Login with password
+2022-03-27 19:29:06 INFO  HomePage:19 - Entering password : nand3799
+2022-03-27 19:29:06 INFO  HomePage:19 - Clicking on login
+2022-03-27 19:29:11 ERROR HomePage:16 - Expected condition failed: waiting for visibility of element located by By.xpath: //div[.='Sign Out'] (tried for 3 second(s) with 500 milliseconds interval)
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'LAPTOP-QS1170C2', ip: '192.168.137.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.84, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\Users\91984\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50050}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50050/devtoo..., se:cdpVersion: 99.0.4844.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 18020c710d9f978a7a1c1ac821ffb4a6
+2022-03-27 19:29:14 INFO  HomePage:19 - Login and verify Details  FAILED

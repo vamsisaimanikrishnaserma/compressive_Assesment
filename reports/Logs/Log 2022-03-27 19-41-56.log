@@ -1,0 +1,20 @@
+2022-03-27 19:41:59 INFO  TC001_Login:19 - Driver set as Chrome
+2022-03-27 19:41:59 INFO  TC001_Login:19 - Driver Maximizes
+2022-03-27 19:42:00 INFO  TC001_Login:19 - Login test Started
+2022-03-27 19:42:31 INFO  HomePage:19 - Opening the url : https://www.nobroker.in/
+2022-03-27 19:42:31 INFO  HomePage:19 - Clicking on Login option
+2022-03-27 19:42:32 INFO  HomePage:19 - Entering phone no : 6302063076
+2022-03-27 19:42:33 INFO  HomePage:19 - Clicking continue
+2022-03-27 19:42:33 INFO  HomePage:19 - Selecting Login with password
+2022-03-27 19:42:36 INFO  HomePage:19 - Entering password : kris1186
+2022-03-27 19:42:36 INFO  HomePage:19 - Clicking on login
+2022-03-27 19:42:41 ERROR HomePage:16 - Expected condition failed: waiting for visibility of element located by By.xpath: //div[.='Sign Out'] (tried for 3 second(s) with 500 milliseconds interval)
+Build info: version: '4.1.2', revision: '9a5a329c5a'
+System info: host: 'LAPTOP-QS1170C2', ip: '192.168.137.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 99.0.4844.84, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\Users\91984\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50458}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50458/devtoo..., se:cdpVersion: 99.0.4844.84, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 70b2d1a1c721f7e60fac99ee0004e92e
+2022-03-27 19:42:44 INFO  HomePage:19 - Login FAILED
+2022-03-27 19:42:49 INFO  TC001_Login:19 - Driver set as Chrome
+2022-03-27 19:42:49 INFO  TC001_Login:19 - Driver Maximizes
+2022-03-27 19:42:49 INFO  TC001_Login:19 - Login test Started

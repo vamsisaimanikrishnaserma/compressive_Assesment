@@ -1,0 +1,14 @@
+2022-03-27 19:36:56 INFO  TC001_Login:19 - Driver set as Chrome
+2022-03-27 19:36:56 INFO  TC001_Login:19 - Driver Maximizes
+2022-03-27 19:36:56 INFO  TC001_Login:19 - Login test Started
+2022-03-27 19:37:32 INFO  HomePage:19 - Opening the url : https://www.nobroker.in/
+2022-03-27 19:37:32 INFO  HomePage:19 - Clicking on Login option
+2022-03-27 19:37:34 INFO  HomePage:19 - Entering phone no : 9390919247
+2022-03-27 19:37:34 INFO  HomePage:19 - Clicking continue
+2022-03-27 19:37:34 INFO  HomePage:19 - Selecting Login with password
+2022-03-27 19:37:35 INFO  HomePage:19 - Entering password : nand3799
+2022-03-27 19:37:35 INFO  HomePage:19 - Clicking on login
+2022-03-27 19:37:43 INFO  HomePage:19 - Login Success
+2022-03-27 19:37:52 INFO  TC001_Login:19 - Driver set as Chrome
+2022-03-27 19:37:52 INFO  TC001_Login:19 - Driver Maximizes
+2022-03-27 19:37:52 INFO  TC001_Login:19 - Login test Started
